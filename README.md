@@ -1,3 +1,4 @@
+
 ### Hey there 👋,
 
 I am a Software developer from Hyderabad, India currently living in Boston, USA.  I have a passion for learning and sharing my knowledge with others. I am interested in talking about Java, AWS and Angular. 
@@ -11,6 +12,11 @@ I  ♥  open source.  I am not a heavy maintainer of any large libraries, but I 
  ---
 <p align='center'>
 Software developer | University of Cincinnati Alum | #Technologist | #Investor 
+<p align='center'>
+<img height="30" src="https://raw.githubusercontent.com/bandirishitha/bandirishitha/master/icons/woman_in_tech.png?raw=true">&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/bandirishitha/bandirishitha/master/icons/dev.png?raw=true">&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/bandirishitha/bandirishitha/master/icons/java_coffee.png?raw=true">
+</p>
 </p>
 
 
