@@ -9,6 +9,9 @@ I am a Software developer from Hyderabad, India currently living in Boston, USA.
 I  ♥  open source.  I am not a heavy maintainer of any large libraries, but I really like the girlscout rule.  I contribute projects I come across which can be asked while taking new job interviews. I am always there to help incase you have any questions related to stuff I post 💬.
 
  ---
+ 
+Software developer | University of Cincinnati Alum | #Technologist | #Investor 
+
 
 <!--
 **bandirishitha/bandirishitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
