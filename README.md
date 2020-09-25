@@ -1,6 +1,6 @@
 ### Hey there 👋,
 
-I am a Software developer from Hyderabad, India currently living in Boston, USA.  I have a passion for learning and sharing my knowledge with others. I am currently working with Java, AWS and Angular. 
+I am a Software developer from Hyderabad, India currently living in Boston, USA.  I have a passion for learning and sharing my knowledge with others. I am interested in talking about Java, AWS and Angular. 
  
   ---
   
