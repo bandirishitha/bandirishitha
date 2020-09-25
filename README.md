@@ -1,4 +1,4 @@
-Hey there 👋,
+### Hey there 👋,
 
 I am a Software developer from Hyderabad, India currently living in Boston, USA.  I have a passion for learning and sharing my knowledge with others. I am currently working with Java, AWS and Angular. 
  
