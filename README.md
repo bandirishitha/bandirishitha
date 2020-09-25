@@ -13,9 +13,9 @@ I  ♥  open source.  I am not a heavy maintainer of any large libraries, but I 
 <p align='center'>
 Software developer | University of Cincinnati Alum | #Technologist | #Investor 
 <p align='center'>
-<img height="30" src="https://raw.githubusercontent.com/bandirishitha/bandirishitha/master/icons/woman_in_tech.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/bandirishitha/bandirishitha/master/icons/dev.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/bandirishitha/bandirishitha/master/icons/java_coffee.png?raw=true">
+<img height="50" src="https://raw.githubusercontent.com/bandirishitha/bandirishitha/master/icons/woman_in_tech.png?raw=true">&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/bandirishitha/bandirishitha/master/icons/dev.png?raw=true">&nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/bandirishitha/bandirishitha/master/icons/java_coffee.png?raw=true">
 </p>
 </p>
 
